@@ -19,7 +19,7 @@ Estoy buscando oportunidades para aplicar mis conocimientos y contribuir a proye
 
 - Puedes contactarme a través de mi correo electrónico: **<p.nadales.j@gmail.com>**
 - Puedes contactarme a través de **[Linkedin](https://www.linkedin.com/in/paulo-nadales-jaramillo-90991420a/)**
-- Puedes visitar mi **[sitio web](https://wwww.paulonadales.com)**
+- Puedes visitar mi **[sitio web](https://pnadales.github.io/Portfolio/)**
 
 ### 🎨 Frontend
 
